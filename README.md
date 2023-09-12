@@ -14,14 +14,15 @@ Hope you enjoy this app :)
 
 --------------------------
 
-1.0 Release info:
+Release info:
 
-Wayback.py is useless don't use it
+Wayback.py is useless don't use it (1.0 only)
 
 WaybackGUI.py is multiOS
 
 The zip version is a macOS application
 
+Current Release: 1.0.1
 
 --------------------------
 
