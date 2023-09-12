@@ -12,7 +12,7 @@ I don't care if you reuse the code in your own projects as long as you credit me
 
 Hope you enjoy this app :)
 
-
+--------------------------
 
 1.0 Release info:
 
@@ -23,7 +23,7 @@ WaybackGUI.py is multiOS
 The zip version is a macOS application
 
 
-
+--------------------------
 
 
 Future Features List:
