@@ -14,7 +14,10 @@ Hope you enjoy this app :)
 
 
 
-
+1.0 Release info:
+Wayback.py is useless don't use it
+WaybackGUI.py is multiOS
+The zip version is a macOS application
 
 
 
